@@ -30,7 +30,7 @@ source.connect(panNode).connect(ctx.destination);
 ## 「 ✦ Why Though? ✦ 」
 I've been using a layered audio setup to help my brain focus better. BUT I'm sick and tired of downloading audio/video to manually split L + R audio channels. So I use this trick to do it in-browser while I keep the youtube tab open for each.
 
-I play a familiar/motivating song inro my left ear to get the emotional and creative processing going, and then play the audio of whichever Youtube tutorial I'm learning into my right ear to target the brain’s language centers. 
+I play a familiar/motivating song into my left ear to get the emotional and creative processing going, and then play the audio of whichever Youtube tutorial I'm learning into my right ear to target the brain’s language centers. 
 Then I add soft White Noise and Beta-Wave tones in both ears to reduce distractions and keep me locked in. 
 
 Might be weird, but it helps me absorb and retain the material more easily.
