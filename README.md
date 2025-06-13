@@ -21,7 +21,7 @@ source.connect(panNode).connect(ctx.destination);
 ```
 4. Change panNode.pan.value to 1 if you want right channel instead.
 
-## Notes
+## 「 ✦ Notes ✦ 」
 - Only works while the video is actively playing.
 - May cause weird audio duplication if run multiple times.
 - This is a quick console hack so it doesn’t persist across page loads.
